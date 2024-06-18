@@ -45,7 +45,7 @@ body {
 }
 .textare-plh {
     height: 100%;
-    max-width: 600px;
+    max-width: 550px;
     width: 100%;
 }
 textarea {
@@ -60,4 +60,9 @@ textarea {
     height: 80%;
     resize: none;
     background: transparent;
+}
+
+.switch-pl {
+    cursor: pointer;
+    width: 25px;
 }
